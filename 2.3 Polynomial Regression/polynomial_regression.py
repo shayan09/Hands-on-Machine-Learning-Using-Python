@@ -27,3 +27,4 @@ plt.title("Negotiate Salary")
 plt.xlabel("Position")
 plt.ylabel("Salary")
 plt.show()
+
