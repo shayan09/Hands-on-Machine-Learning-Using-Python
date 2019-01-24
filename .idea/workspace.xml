@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48b3a2d7-b08d-4fda-aaca-010de35662f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/2.6 Random Forest Regression/random_forest_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.6 Random Forest Regression/random_forest_regression.py" afterDir="false" />
-    </list>
+    <list default="true" id="48b3a2d7-b08d-4fda-aaca-010de35662f2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/2.6 Random Forest Regression/random_forest_regression.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+              <caret line="26" column="10" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="10" />
               <folding>
                 <element signature="e#54#72#0" expanded="true" />
               </folding>
@@ -56,21 +54,6 @@
             <path>
               <item name="Hands-on-Machine-Learning-Using-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hands-on-Machine-Learning-Using-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="2.1 Simple Linear Regression" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hands-on-Machine-Learning-Using-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="2.5 Decision Tree Regression" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hands-on-Machine-Learning-Using-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="2.6 Random Forest Regression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,14 +208,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2562039" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2562039" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22772278" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22772278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -315,7 +297,7 @@
     <entry file="file://$PROJECT_DIR$/2.6 Random Forest Regression/random_forest_regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="10" />
           <folding>
             <element signature="e#54#72#0" expanded="true" />
           </folding>
