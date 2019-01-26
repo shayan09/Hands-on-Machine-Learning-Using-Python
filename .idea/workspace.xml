@@ -11,19 +11,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.2 K-Nearest Neighbour/knn.py">
+        <entry file="file://$PROJECT_DIR$/3.4 Support Vector Machines/svm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+            <state relative-caret-position="423">
+              <caret line="49" column="10" lean-forward="true" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
               <folding>
-                <element signature="e#56#74#0" expanded="true" />
+                <element signature="e#58#76#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.2 K-Nearest Neighbour/Social_Network_Ads.csv">
+        <entry file="file://$PROJECT_DIR$/3.4 Support Vector Machines/Social_Network_Ads.csv">
           <provider selected="true" editor-type-id="csv-text-editor" />
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
@@ -45,6 +45,7 @@
         <option value="$PROJECT_DIR$/2.6 Random Forest Regression/random_forest_regression.py" />
         <option value="$PROJECT_DIR$/3.1 Logistic Regression/logistic_regression.py" />
         <option value="$PROJECT_DIR$/3.2 K-Nearest Neighbour/knn.py" />
+        <option value="$PROJECT_DIR$/3.4 Support Vector Machines/svm.py" />
       </list>
     </option>
   </component>
@@ -68,7 +69,7 @@
             <path>
               <item name="Hands-on-Machine-Learning-Using-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="3.2 K-Nearest Neighbour" type="462c0819:PsiDirectoryNode" />
+              <item name="3.4 Support Vector Machines" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -92,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.knn">
+  <component name="RunManager" selected="Python.svm">
     <configuration name="decision_tree_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hands-on-Machine-Learning-Using-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="svr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="svm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hands-on-Machine-Learning-Using-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.4 Support Vector Regression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.4 Support Vector Machines" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.4 Support Vector Regression/svr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.4 Support Vector Machines/svm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.svm" />
         <item itemvalue="Python.knn" />
         <item itemvalue="Python.logistic_regression" />
         <item itemvalue="Python.random_forest_regression" />
         <item itemvalue="Python.decision_tree_regression" />
-        <item itemvalue="Python.svr" />
       </list>
     </recent_temporary>
   </component>
@@ -225,12 +226,12 @@
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26291078" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26693493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22772278" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22772278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -336,18 +337,34 @@
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.2 K-Nearest Neighbour/Social_Network_Ads.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.2 K-Nearest Neighbour/knn.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
           <folding>
             <element signature="e#56#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.2 K-Nearest Neighbour/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.4 Support Vector Machines/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.4 Support Vector Machines/svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="49" column="10" lean-forward="true" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+          <folding>
+            <element signature="e#58#76#0" expanded="true" />
           </folding>
         </state>
       </provider>
