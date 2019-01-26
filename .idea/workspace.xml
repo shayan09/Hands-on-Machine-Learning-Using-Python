@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48b3a2d7-b08d-4fda-aaca-010de35662f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/3.1 Logistic Regression/classifier_prediction.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/3.1 Logistic Regression/classifier_prediction.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1 Logistic Regression/logistic_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.1 Logistic Regression/logistic_regression.py" afterDir="false" />
-    </list>
+    <list default="true" id="48b3a2d7-b08d-4fda-aaca-010de35662f2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,19 +11,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.1 Logistic Regression/logistic_regression.py">
+        <entry file="file://$PROJECT_DIR$/3.2 K-Nearest Neighbour/knn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="65" column="67" selection-start-line="65" selection-start-column="67" selection-end-line="65" selection-end-column="67" />
+            <state relative-caret-position="210">
+              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
               <folding>
-                <element signature="e#49#67#0" expanded="true" />
+                <element signature="e#56#74#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.1 Logistic Regression/Social_Network_Ads.csv">
+        <entry file="file://$PROJECT_DIR$/3.2 K-Nearest Neighbour/Social_Network_Ads.csv">
           <provider selected="true" editor-type-id="csv-text-editor" />
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
@@ -47,6 +44,7 @@
         <option value="$PROJECT_DIR$/2.5 Decision Tree Regression/decision_tree_regression.py" />
         <option value="$PROJECT_DIR$/2.6 Random Forest Regression/random_forest_regression.py" />
         <option value="$PROJECT_DIR$/3.1 Logistic Regression/logistic_regression.py" />
+        <option value="$PROJECT_DIR$/3.2 K-Nearest Neighbour/knn.py" />
       </list>
     </option>
   </component>
@@ -70,7 +68,7 @@
             <path>
               <item name="Hands-on-Machine-Learning-Using-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="3.1 Logistic Regression" type="462c0819:PsiDirectoryNode" />
+              <item name="3.2 K-Nearest Neighbour" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -94,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.logistic_regression">
+  <component name="RunManager" selected="Python.knn">
     <configuration name="decision_tree_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hands-on-Machine-Learning-Using-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,6 +114,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="knn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hands-on-Machine-Learning-Using-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.2 K-Nearest Neighbour" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.2 K-Nearest Neighbour/knn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="logistic_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hands-on-Machine-Learning-Using-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,27 +148,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.1 Logistic Regression/logistic_regression.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="polynomial_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Hands-on-Machine-Learning-Using-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.3 Polynomial Regression" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.3 Polynomial Regression/polynomial_regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.knn" />
         <item itemvalue="Python.logistic_regression" />
         <item itemvalue="Python.random_forest_regression" />
         <item itemvalue="Python.decision_tree_regression" />
         <item itemvalue="Python.svr" />
-        <item itemvalue="Python.polynomial_regression" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +230,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22772278" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22772278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -322,18 +320,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.1 Logistic Regression/Social_Network_Ads.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.1 Logistic Regression/logistic_regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
           <caret line="65" column="67" selection-start-line="65" selection-start-column="67" selection-end-line="65" selection-end-column="67" />
           <folding>
             <element signature="e#49#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.1 Logistic Regression/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.2 K-Nearest Neighbour/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.2 K-Nearest Neighbour/knn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+          <folding>
+            <element signature="e#56#74#0" expanded="true" />
           </folding>
         </state>
       </provider>
