@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48b3a2d7-b08d-4fda-aaca-010de35662f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="48b3a2d7-b08d-4fda-aaca-010de35662f2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +11,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.2 Hierarchical Clustering/hc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+              <folding>
+                <element signature="e#53#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4.1 K-Means Clustering/kmeans.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="33" column="92" selection-start-line="33" selection-start-column="92" selection-end-line="33" selection-end-column="92" />
+            <state relative-caret-position="468">
+              <caret line="39" column="10" lean-forward="true" selection-start-line="29" selection-end-line="39" selection-end-column="10" />
               <folding>
                 <element signature="e#48#66#0" expanded="true" />
               </folding>
@@ -25,6 +35,14 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Y_kmeans</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Y_hc</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +64,7 @@
         <option value="$PROJECT_DIR$/3.8 Random Forest Classification/random_forest_classification.py" />
         <option value="$USER_HOME$/Downloads/CS6375_Homework1.ipynb" />
         <option value="$PROJECT_DIR$/4.1 K-Means Clustering/kmeans.py" />
+        <option value="$PROJECT_DIR$/4.2 Hierarchical Clustering/hc.py" />
       </list>
     </option>
   </component>
@@ -72,6 +91,11 @@
               <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
               <item name="4.1 K-Means Clustering" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Hands-on-Machine-Learning-Using-Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="4.2 Hierarchical Clustering" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -93,7 +117,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.kmeans">
+  <component name="RunManager" selected="Python.hc">
     <configuration name="decision_tree_classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hands-on-Machine-Learning-Using-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kernel_svm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hands-on-Machine-Learning-Using-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.5 Kernel SVM" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.2 Hierarchical Clustering" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.5 Kernel SVM/kernel_svm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.2 Hierarchical Clustering/hc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hc" />
         <item itemvalue="Python.kmeans" />
         <item itemvalue="Python.random_forest_classification" />
         <item itemvalue="Python.decision_tree_classification" />
         <item itemvalue="Python.naive_bayes" />
-        <item itemvalue="Python.kernel_svm" />
       </list>
     </recent_temporary>
   </component>
@@ -415,10 +439,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4.1 K-Means Clustering/kmeans.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="33" column="92" selection-start-line="33" selection-start-column="92" selection-end-line="33" selection-end-column="92" />
+        <state relative-caret-position="468">
+          <caret line="39" column="10" lean-forward="true" selection-start-line="29" selection-end-line="39" selection-end-column="10" />
           <folding>
             <element signature="e#48#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.2 Hierarchical Clustering/hc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding>
+            <element signature="e#53#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
