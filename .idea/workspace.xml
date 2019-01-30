@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48b3a2d7-b08d-4fda-aaca-010de35662f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Hands-on-Machine-Learning-Using-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hands-on-Machine-Learning-Using-Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,25 +11,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5.1 Apriori/apyori.py">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.1 Upper Confidence Bound/upper_confidence_bound.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3555">
+            <state relative-caret-position="447">
+              <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
               <folding>
-                <element signature="e#88#98#0" expanded="true" />
+                <element signature="e#52#70#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6.1 Upper Confidence Bound/random_selection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="62" selection-start-column="62" selection-end-column="62" />
+              <folding>
+                <element signature="e#46#64#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5.1 Apriori/apriori.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-            </state>
+        <entry file="file://$PROJECT_DIR$/6.1 Upper Confidence Bound/Ads_CTR_Optimisation.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
+          <provider selected="true" editor-type-id="csv-text-editor" />
         </entry>
       </file>
     </leaf>
@@ -73,6 +84,9 @@
         <option value="$PROJECT_DIR$/4.2 Hierarchical Clustering/hc.py" />
         <option value="$PROJECT_DIR$/5.1 Apriori/__init__.py" />
         <option value="$PROJECT_DIR$/5.1 Apriori/apriori.py" />
+        <option value="$PROJECT_DIR$/5.1 Apriori/apyori.py" />
+        <option value="$PROJECT_DIR$/6.1 Upper Confidence Bound/upper_confidence_bound.py" />
+        <option value="$PROJECT_DIR$/6.1 Upper Confidence Bound/random_selection.py" />
       </list>
     </option>
   </component>
@@ -93,6 +107,11 @@
             <path>
               <item name="Hands-on-Machine-Learning-Using-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hands-on-Machine-Learning-Using-Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="6.1 Upper Confidence Bound" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -115,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.apriori">
+  <component name="RunManager" selected="Python.upper_confidence_bound">
     <configuration name="apriori" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hands-on-Machine-Learning-Using-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,27 +148,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.1 Apriori/apriori.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="decision_tree_classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Hands-on-Machine-Learning-Using-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.7 Decision Tree Classification" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.7 Decision Tree Classification/decision_tree_classification.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="random_forest_classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="random_selection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hands-on-Machine-Learning-Using-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,11 +206,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.8 Random Forest Classification" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.1 Upper Confidence Bound" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.8 Random Forest Classification/random_forest_classification.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.1 Upper Confidence Bound/random_selection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="upper_confidence_bound" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hands-on-Machine-Learning-Using-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.1 Upper Confidence Bound" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.1 Upper Confidence Bound/upper_confidence_bound.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.upper_confidence_bound" />
+        <item itemvalue="Python.random_selection" />
         <item itemvalue="Python.apriori" />
         <item itemvalue="Python.hc" />
         <item itemvalue="Python.kmeans" />
-        <item itemvalue="Python.random_forest_classification" />
-        <item itemvalue="Python.decision_tree_classification" />
       </list>
     </recent_temporary>
   </component>
@@ -248,12 +267,12 @@
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27900738" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28705567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.9575672" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25742576" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -466,10 +485,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.1 Apriori/__init__.py">
+    <entry file="file://$PROJECT_DIR$/5.1 Apriori/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/5.1 Apriori/apyori.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+          <folding>
+            <element signature="e#88#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -480,11 +503,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.1 Apriori/apyori.py">
+    <entry file="file://$PROJECT_DIR$/6.1 Upper Confidence Bound/Ads_CTR_Optimisation.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.1 Upper Confidence Bound/upper_confidence_bound.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3555">
+        <state relative-caret-position="447">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
           <folding>
-            <element signature="e#88#98#0" expanded="true" />
+            <element signature="e#52#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.1 Upper Confidence Bound/random_selection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="62" selection-start-column="62" selection-end-column="62" />
+          <folding>
+            <element signature="e#46#64#0" expanded="true" />
           </folding>
         </state>
       </provider>
