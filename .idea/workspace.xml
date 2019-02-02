@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48b3a2d7-b08d-4fda-aaca-010de35662f2" name="Default Changelist" comment="" />
+    <list default="true" id="48b3a2d7-b08d-4fda-aaca-010de35662f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 Data Preprocessing/data_preprocessing_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 Data Preprocessing/data_preprocessing_template.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,15 +12,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6.2 Thompson Sampling/thompson_sampling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+            <state relative-caret-position="666">
+              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
               <folding>
                 <element signature="e#47#65#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1 Data Preprocessing/data_preprocessing_template.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1008">
+              <caret line="58" column="11" selection-start-line="49" selection-start-column="1" selection-end-line="58" selection-end-column="11" />
+              <folding>
+                <element signature="e#57#75#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1 Data Preprocessing/data_preprocessing.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="14" />
             </state>
           </provider>
         </entry>
@@ -28,6 +52,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -66,6 +91,8 @@
         <option value="$PROJECT_DIR$/6.1 Upper Confidence Bound/upper_confidence_bound.py" />
         <option value="$PROJECT_DIR$/6.1 Upper Confidence Bound/random_selection.py" />
         <option value="$PROJECT_DIR$/6.2 Thompson Sampling/thompson_sampling.py" />
+        <option value="$PROJECT_DIR$/1 Data Preprocessing/data_preprocessing_template.py" />
+        <option value="$PROJECT_DIR$/1 Data Preprocessing/data_preprocessing.ipynb" />
       </list>
     </option>
   </component>
@@ -90,6 +117,11 @@
             <path>
               <item name="Hands-on-Machine-Learning-Using-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="1 Data Preprocessing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hands-on-Machine-Learning-Using-Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
               <item name="6.2 Thompson Sampling" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -99,7 +131,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Projects/Ipl" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -244,14 +277,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28705567" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29510397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25742576" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25742576" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -287,10 +319,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2.3 Polynomial Regression/Position_Salaries.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/2.3 Polynomial Regression/polynomial_regression.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -307,10 +339,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2.4 Support Vector Regression/Position_Salaries.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/2.4 Support Vector Regression/svr.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -363,10 +395,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.1 Logistic Regression/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/3.2 K-Nearest Neighbour/knn.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -379,10 +411,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.2 K-Nearest Neighbour/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/3.4 Support Vector Machines/svm.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -395,10 +427,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.4 Support Vector Machines/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/3.5 Kernel SVM/kernel_svm.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -408,10 +440,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.5 Kernel SVM/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/3.6 Naive Bayes/naive_bayes.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -503,18 +535,35 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/6.1 Upper Confidence Bound/Ads_CTR_Optimisation.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/6.2 Thompson Sampling/thompson_sampling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        <state relative-caret-position="666">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
           <folding>
             <element signature="e#47#65#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 Data Preprocessing/data_preprocessing_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="58" column="11" selection-start-line="49" selection-start-column="1" selection-end-line="58" selection-end-column="11" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 Data Preprocessing/data_preprocessing.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="14" />
         </state>
       </provider>
     </entry>

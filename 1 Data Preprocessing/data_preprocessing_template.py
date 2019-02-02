@@ -23,6 +23,7 @@ labelencoder_X = LabelEncoder()
 X[:, 0] = labelencoder_X.fit_transform(X[:, 0])
 print(X)
 print("\n")
+
 onehotencoder = OneHotEncoder(categorical_features=[0])
 X = onehotencoder.fit_transform(X).toarray()
 np.set_printoptions(precision=2, suppress=True)
@@ -32,6 +33,7 @@ labelencoder_Y = LabelEncoder()
 Y = labelencoder_Y.fit_transform(Y)
 print(Y.reshape(-1,1))
 print("\n")
+
 #Splitting the dataset in to training and testing
 from sklearn.model_selection import train_test_split
 X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size = 0.2, random_state = 0)
