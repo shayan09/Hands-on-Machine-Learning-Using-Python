@@ -1,5 +1,7 @@
 # Hands on Machine Learning Using Python
 
+An attempt to explore the different models in Scikit-Learn and cover the fundamentals of Machine Learning. 
+
 ## The code is structured in the following way:
 
 ##### *Part 1* - Data Preprocessing
