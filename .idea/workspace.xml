@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="48b3a2d7-b08d-4fda-aaca-010de35662f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.1 Artificial Neural Networks/ann.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.1 Artificial Neural Networks/ann.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/8.1 Artificial Neural Networks/ann.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="43" column="90" selection-start-line="43" selection-start-column="90" selection-end-line="43" selection-end-column="90" />
-              <folding>
-                <element signature="e#362#380#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="291">
+              <caret line="39" column="100" selection-start-line="39" selection-start-column="100" selection-end-line="39" selection-end-column="100" />
             </state>
           </provider>
         </entry>
@@ -60,7 +58,6 @@
         <option value="$PROJECT_DIR$/3.6 Naive Bayes/naive_bayes.py" />
         <option value="$PROJECT_DIR$/3.7 Decision Tree Classification/decision_tree_classification.py" />
         <option value="$PROJECT_DIR$/3.8 Random Forest Classification/random_forest_classification.py" />
-        <option value="$USER_HOME$/Downloads/CS6375_Homework1.ipynb" />
         <option value="$PROJECT_DIR$/4.1 K-Means Clustering/kmeans.py" />
         <option value="$PROJECT_DIR$/4.2 Hierarchical Clustering/hc.py" />
         <option value="$PROJECT_DIR$/5.1 Apriori/__init__.py" />
@@ -72,6 +69,7 @@
         <option value="$PROJECT_DIR$/1 Data Preprocessing/data_preprocessing_template.py" />
         <option value="$PROJECT_DIR$/1 Data Preprocessing/data_preprocessing.ipynb" />
         <option value="$PROJECT_DIR$/7.1 Natural Language Processing/natural_language_processing.py" />
+        <option value="$USER_HOME$/Downloads/CS6375_Homework1.ipynb" />
         <option value="$PROJECT_DIR$/8.1 Artificial Neural Networks/ann.py" />
       </list>
     </option>
@@ -86,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,7 +101,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,12 +252,12 @@
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30717638" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19919518" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49966466" visible="true" weight="0.25742576" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.1145686" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,13 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/CS6375_Homework1.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4.2 Hierarchical Clustering/hc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -553,13 +544,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/CS6375_Homework1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/8.1 Artificial Neural Networks/ann.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="43" column="90" selection-start-line="43" selection-start-column="90" selection-end-line="43" selection-end-column="90" />
-          <folding>
-            <element signature="e#362#380#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="291">
+          <caret line="39" column="100" selection-start-line="39" selection-start-column="100" selection-end-line="39" selection-end-column="100" />
         </state>
       </provider>
     </entry>
