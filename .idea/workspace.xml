@@ -13,22 +13,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7.1 Natural Language Processing/natural_language_processing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-              <folding>
-                <element signature="e#57#75#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.6 Naive Bayes/naive_bayes.py">
+        <entry file="file://$PROJECT_DIR$/8.1 Artificial Neural Networks/ann.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="438">
-              <caret line="34" lean-forward="true" selection-start-line="12" selection-end-line="34" />
+              <caret line="43" column="90" selection-start-line="43" selection-start-column="90" selection-end-line="43" selection-end-column="90" />
+              <folding>
+                <element signature="e#362#380#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,6 +72,7 @@
         <option value="$PROJECT_DIR$/1 Data Preprocessing/data_preprocessing_template.py" />
         <option value="$PROJECT_DIR$/1 Data Preprocessing/data_preprocessing.ipynb" />
         <option value="$PROJECT_DIR$/7.1 Natural Language Processing/natural_language_processing.py" />
+        <option value="$PROJECT_DIR$/8.1 Artificial Neural Networks/ann.py" />
       </list>
     </option>
   </component>
@@ -104,12 +96,7 @@
             <path>
               <item name="Hands-on-Machine-Learning-Using-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="3.6 Naive Bayes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hands-on-Machine-Learning-Using-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="7.1 Natural Language Processing" type="462c0819:PsiDirectoryNode" />
+              <item name="8.1 Artificial Neural Networks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,8 +121,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.natural_language_processing">
-    <configuration name="apriori" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ann">
+    <configuration name="ann" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hands-on-Machine-Learning-Using-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.1 Apriori" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8.1 Artificial Neural Networks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.1 Apriori/apriori.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8.1 Artificial Neural Networks/ann.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ann" />
         <item itemvalue="Python.natural_language_processing" />
         <item itemvalue="Python.thompson_sampling" />
         <item itemvalue="Python.upper_confidence_bound" />
         <item itemvalue="Python.random_selection" />
-        <item itemvalue="Python.apriori" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +254,7 @@
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30315223" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30717638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -308,10 +295,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2.3 Polynomial Regression/Position_Salaries.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/2.3 Polynomial Regression/polynomial_regression.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -328,10 +315,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2.4 Support Vector Regression/Position_Salaries.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/2.4 Support Vector Regression/svr.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -384,10 +371,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.1 Logistic Regression/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/3.2 K-Nearest Neighbour/knn.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -400,10 +387,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.2 K-Nearest Neighbour/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/3.4 Support Vector Machines/svm.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -416,10 +403,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.4 Support Vector Machines/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/3.5 Kernel SVM/kernel_svm.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -429,10 +416,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3.5 Kernel SVM/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/3.7 Decision Tree Classification/decision_tree_classification.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -517,10 +504,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/6.1 Upper Confidence Bound/Ads_CTR_Optimisation.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/1 Data Preprocessing/data_preprocessing_template.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -549,19 +536,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.6 Naive Bayes/naive_bayes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="34" lean-forward="true" selection-start-line="12" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7.1 Natural Language Processing/natural_language_processing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="e#57#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.6 Naive Bayes/naive_bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="34" selection-start-line="12" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.1 Artificial Neural Networks/ann.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="43" column="90" selection-start-line="43" selection-start-column="90" selection-end-line="43" selection-end-column="90" />
+          <folding>
+            <element signature="e#362#380#0" expanded="true" />
           </folding>
         </state>
       </provider>
