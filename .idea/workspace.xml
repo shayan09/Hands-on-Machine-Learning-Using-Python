@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48b3a2d7-b08d-4fda-aaca-010de35662f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.1 Artificial Neural Networks/ann.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.1 Artificial Neural Networks/ann.py" afterDir="false" />
-    </list>
+    <list default="true" id="48b3a2d7-b08d-4fda-aaca-010de35662f2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,10 +11,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8.1 Artificial Neural Networks/ann.py">
+        <entry file="file://$PROJECT_DIR$/9.1 Principal Component Analysis/pca.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="39" column="100" selection-start-line="39" selection-start-column="100" selection-end-line="39" selection-end-column="100" />
+            <state relative-caret-position="273">
+              <caret line="27" column="110" selection-start-line="27" selection-start-column="110" selection-end-line="27" selection-end-column="110" />
+              <folding>
+                <element signature="e#33#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,13 +71,14 @@
         <option value="$PROJECT_DIR$/7.1 Natural Language Processing/natural_language_processing.py" />
         <option value="$USER_HOME$/Downloads/CS6375_Homework1.ipynb" />
         <option value="$PROJECT_DIR$/8.1 Artificial Neural Networks/ann.py" />
+        <option value="$PROJECT_DIR$/9.1 Principal Component Analysis/pca.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1905" />
-    <option name="width" value="1950" />
-    <option name="height" value="1045" />
+    <option name="width" value="1948" />
+    <option name="height" value="2075" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -95,7 +96,7 @@
             <path>
               <item name="Hands-on-Machine-Learning-Using-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hands-on-Machine-Learning-Using-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="8.1 Artificial Neural Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="9.1 Principal Component Analysis" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -119,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ann">
+  <component name="RunManager" selected="Python.pca">
     <configuration name="ann" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hands-on-Machine-Learning-Using-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="random_selection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pca" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Hands-on-Machine-Learning-Using-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.1 Upper Confidence Bound" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9.1 Principal Component Analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.1 Upper Confidence Bound/random_selection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.1 Principal Component Analysis/pca.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pca" />
         <item itemvalue="Python.ann" />
         <item itemvalue="Python.natural_language_processing" />
         <item itemvalue="Python.thompson_sampling" />
         <item itemvalue="Python.upper_confidence_bound" />
-        <item itemvalue="Python.random_selection" />
       </list>
     </recent_temporary>
   </component>
@@ -252,12 +253,12 @@
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19919518" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20187794" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.1145686" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.18528996" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -555,6 +556,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
           <caret line="39" column="100" selection-start-line="39" selection-start-column="100" selection-end-line="39" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.1 Principal Component Analysis/pca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="27" column="110" selection-start-line="27" selection-start-column="110" selection-end-line="27" selection-end-column="110" />
+          <folding>
+            <element signature="e#33#51#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
