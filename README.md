@@ -1,6 +1,6 @@
 # Hands on Machine Learning Using Python
 
-An attempt to explore the different models in Scikit-Learn and cover the fundamentals of Machine Learning. 
+An attempt to explore the different models in Scikit-Learn and cover the fundamentals of Machine Learning. These are the basic models and techniques used in Machine Learning. *Will soon update the readme with usecase and details of each model* 
 
 ## The code is structured in the following way:
 
